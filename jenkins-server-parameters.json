@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "ocsupgrade"
+    },
+    {
+        "ParameterKey": "AppImageId",
+        "ParameterValue": "ami-0a0ddd875a1ea2c7f" 
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.medium"
+    }
+]
